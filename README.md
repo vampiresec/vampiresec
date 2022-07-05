@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vampiresec
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Penetration Testing and Bug BOunty
+- 🌱 I’m currently learning Penetration Testing and Bug Bounty
 - 📫 How to reach me chaitanyachavan118@gmail.com
 
 <!---
